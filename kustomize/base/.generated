@@ -1,0 +1,3 @@
+deployment.yaml
+kustomization.yaml
+service.yaml
