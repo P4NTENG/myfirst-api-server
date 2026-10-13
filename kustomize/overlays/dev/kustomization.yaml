@@ -22,4 +22,4 @@ images:
   newTag: "2.0"
 - name: skala-registry.skala-ai.com/class-10/sk318-webserver
   newName: skala-registry.skala-ai.com/class-10/sk318-webserver
-  newTag: 1.0-bd1-bf1df5b
+  newTag: 1.0-bk3-cea12f1
