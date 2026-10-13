@@ -17,5 +17,8 @@ patches:
 #   cd kustomize/dev && kustomize edit set image \
 #     skala-registry.skala-ai.com/class-10/sk318-webserver=skala-registry.skala-ai.com/class-10/sk318-webserver:<NEW_TAG>
 images:
+- name: skala-registry.skala-?.com/class-10/sk318-webserver
+  newName: skala-registry.skala-ai.com/class-10/sk318-webserver
+  newTag: "2.0"
 - name: skala-registry.skala-ai.com/class-10/sk318-webserver
   newTag: "1.0"
